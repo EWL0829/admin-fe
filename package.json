@@ -1,0 +1,8 @@
+{
+  "name": "admin-fe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EWL0829/admin-fe.git",
+  "author": "liyue <li.yue@okcoin.com>",
+  "license": "MIT"
+}
