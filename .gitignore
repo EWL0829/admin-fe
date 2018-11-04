@@ -1,0 +1,6 @@
+.DS_Store # 该文件夹mac使用来存储文件夹信息的
+node_modules
+dist
+*.log
+
+
